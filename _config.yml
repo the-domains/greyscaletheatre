@@ -1,0 +1,29 @@
+name: GreyscaleTheatre
+favicon: null
+layout_spectrum: 0.34687759145163
+typography_spectrum: 0.2890041086357087
+title: Greyscale Theatre
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.020491443807259202
+  lightness: 0.26219211844727397
+  saturation: 0.035976850893348455
+  rhythmicContrast: 0.26092792209237814
+purpose: []
